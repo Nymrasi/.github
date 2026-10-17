@@ -20,6 +20,5 @@ Nymra is building privacy superintelligence, one intelligence over every wallet,
 |---|---|
 | [privacy-scan](https://github.com/nymrasi/privacy-scan) | The engine behind the Nymra Privacy Score, with every rule and the score formula in the open |
 | [brand](https://github.com/nymrasi/brand) | The Nymra mark, palette and type as files and tokens, with how to use them |
-| [telegram-media](https://github.com/nymrasi/telegram-media) | Stickers, custom emoji and videos made for Nymra's Telegram |
 
 The website's own code is not public. The scan engine, its rules and the relay are open source in privacy-scan.
