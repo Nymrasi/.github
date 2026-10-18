@@ -6,7 +6,7 @@
 
 **See what the chain reveals.**
 
-Nymra is building privacy superintelligence, one intelligence over every wallet, link and chain. Its first tools score a wallet, show how to fix it, compare two wallets and check a transfer before you send it. They only read, and every rule they use is public.
+Nymra is building privacy superintelligence, one intelligence over every wallet, link and chain. Its first tools score a wallet, show how to fix it, compare two wallets and check a transfer before you send it. 
 
 - Website: [nymra.si](https://nymra.si)
 - Docs: [nymra.si/docs](https://nymra.si/docs/)
